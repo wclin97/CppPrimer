@@ -37,7 +37,7 @@
         "stopAtEntry": false,
         // If true, a console is launched for the debuggee.
         // If false, on Linux and Windows, it will appear in the Integrated Console.
-        "externalConsole": true,
+        "externalConsole": false,
         // 为true则会打开系统终端在其中进行交互
         // 如果为 true，则为调试对象启动控制台。如果为 false，它在 Linux 和 Windows 上会显示在集成控制台中
         // macOS不适用：https://code.visualstudio.com/docs/cpp/launch-json-reference#_externalconsole
